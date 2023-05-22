@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: model.ipynb
+  checksum: afa395a18b55629b6b8f658e7d12948c60870e8ddd1d8e4e856df23d4db461f4
+- filename: POS_tagger.ipynb
+  checksum: 6c7617ad3d7a1aeb4f02f3da68793e49a72d76a43a22272c8dc9e560daced761
+version: ""
